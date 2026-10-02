@@ -1,6 +1,4 @@
-<h1 align="center">
-  ![image](https://github.com/webport-facility/.github/blob/main/logo.png)
-</h1>
+![image](https://github.com/webport-facility/.github/blob/main/logo.png)
 
 <h3 align="center">Webport Facility</h3>
 
