@@ -62,12 +62,3 @@ Because our projects run as webports—software accessed over a network rather t
 You can read the full legal text of the license in the `LICENSE` file included in every repository, or read the official summary on the [GNU website](https://www.gnu.org/licenses/agpl-3.0.html).
 
 <br>
-
----
-
-<p align="center">
-  <em>Webport Facility — Preserving and expanding games for the modern browser.</em>
-</p>
-* **Webport Focus:** Clearly defines the group's goal: porting games to the browser using web technologies.
-* **Forking Guide:** Added a clean, standard 5-step guide on how to fork, branch, and submit a PR.
-* **AGPL Explanation:** Included a dedicated section explaining *what* the AGPL is and *why* it is specifically used for this repo (highlighting the network use clause, which is crucial for webports).
